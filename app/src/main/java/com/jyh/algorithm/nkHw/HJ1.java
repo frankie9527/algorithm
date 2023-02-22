@@ -3,7 +3,6 @@ package com.jyh.algorithm.nkHw;
 import java.util.Scanner;
 
 /**
- * https://www.nowcoder.com/exam/oj/ta?tpId=37
  * 华为机试题入口
  * 输入一个字符串已空格分割，求最后一个字符串长度
  * example
